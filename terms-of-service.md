@@ -1,9 +1,9 @@
 # Syarat & Ketentuan Layanan Reyvo
 
-**Terakhir diperbarui:** [TANGGAL BERLAKU, mis. 9 Juni 2026]
+11 Juni 2026
 
 Syarat & Ketentuan ("Ketentuan") ini mengatur penggunaan Anda atas aplikasi
-**Reyvo** ("Aplikasi") yang disediakan oleh **[NAMA DEVELOPER/PERUSAHAAN]** ("kami").
+**Reyvo** ("Aplikasi") yang disediakan oleh Virtus Artha Prosperitas ("kami").
 Dengan mengunduh atau menggunakan Aplikasi, Anda menyetujui Ketentuan ini. Jika Anda
 tidak setuju, jangan gunakan Aplikasi.
 
@@ -31,8 +31,8 @@ Kami dapat menambah, mengubah, atau menghentikan fitur sewaktu-waktu.
 
 ## 3. Langganan, Harga & Uji Coba
 
-- Langganan Pro: **Rp [39.000]/bulan** (atau harga yang ditampilkan di Google Play
-  pada saat pembelian), dengan **uji coba gratis [7] hari** bagi pengguna yang memenuhi
+- Langganan Pro: **Rp 39.000/bulan** (atau harga yang ditampilkan di Google Play
+  pada saat pembelian), dengan **uji coba gratis 7 hari** bagi pengguna yang memenuhi
   syarat.
 - **Pembayaran diproses melalui Google Play.** Langganan **diperpanjang otomatis**
   hingga dibatalkan.
@@ -101,15 +101,15 @@ setelah perubahan berarti Anda menerima Ketentuan yang diperbarui.
 
 ## 10. Hukum yang Berlaku
 
-Ketentuan ini diatur oleh hukum **[Republik Indonesia]**, tanpa memperhatikan
-pertentangan asas hukum. Sengketa diselesaikan di yurisdiksi **[KOTA/PENGADILAN]**.
+Ketentuan ini diatur oleh hukum **Republik Indonesia**, tanpa memperhatikan
+pertentangan asas hukum. Sengketa diselesaikan di yurisdiksi **Pengadilan Negeri Kota Denpasar**.
 
 ---
 
 ## 11. Kontak
 
-**[NAMA DEVELOPER/PERUSAHAAN]**
-Email: **[EMAIL_SUPPORT]**
+**Virtus Artha Prosperitas**
+Email: **support@virtusarthaprosperitas.com**
 
 ---
 
