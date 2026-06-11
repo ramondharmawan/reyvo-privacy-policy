@@ -1,13 +1,13 @@
 # Kebijakan Privasi Reyvo
 
-**Terakhir diperbarui:** [TANGGAL BERLAKU, mis. 9 Juni 2026]
+**Terakhir diperbarui:** 10 Juni 2026
 
-Kebijakan Privasi ini menjelaskan bagaimana **[NAMA DEVELOPER/PERUSAHAAN]** ("kami")
+Kebijakan Privasi ini menjelaskan bagaimana **Virtus Artha Prosperitas** ("kami")
 mengumpulkan, menggunakan, dan melindungi data Anda saat menggunakan aplikasi
 **Reyvo** ("Aplikasi"). Dengan menggunakan Aplikasi, Anda menyetujui praktik yang
 dijelaskan di dokumen ini.
 
-Jika Anda memiliki pertanyaan, hubungi kami di **[EMAIL_SUPPORT, mis. support@reyvo.app]**.
+Jika Anda memiliki pertanyaan, hubungi kami di **support@virtusarthaprosperitas.com**.
 
 ---
 
@@ -85,7 +85,7 @@ Masing-masing penyedia memiliki kebijakan privasinya sendiri.
 - **Data mode gratis**: tetap di perangkat Anda; terhapus saat Anda menghapus catatan
   atau meng-uninstall Aplikasi.
 - **Rekaman suara Pro**: disimpan sementara untuk transkripsi lalu dihapus otomatis
-  setelah **[mis. 7 hari]**.
+  setelah **7 hari**.
 - **Catatan cloud & data langganan**: disimpan selama akun Anda aktif.
 - Anda dapat meminta penghapusan akun dan data terkait kapan saja (lihat Bagian 7).
 
@@ -112,14 +112,14 @@ Anda berhak untuk:
 - Mencabut izin Google Calendar kapan saja melalui pengaturan akun Google Anda.
 - Mengelola atau membatalkan langganan melalui **Google Play → Langganan**.
 
-Untuk permintaan terkait data, hubungi **[EMAIL_SUPPORT]**. Kami akan menanggapi dalam
+Untuk permintaan terkait data, hubungi **support@virtusarthaprosperitas.com**. Kami akan menanggapi dalam
 waktu yang wajar sesuai hukum yang berlaku.
 
 ---
 
 ## 8. Anak-anak
 
-Aplikasi tidak ditujukan untuk anak di bawah **[13/18]** tahun. Kami tidak dengan
+Aplikasi tidak ditujukan untuk anak di bawah **13** tahun. Kami tidak dengan
 sengaja mengumpulkan data dari anak-anak.
 
 ---
@@ -134,9 +134,9 @@ diumumkan melalui Aplikasi atau halaman ini, dengan memperbarui tanggal
 
 ## 10. Kontak
 
-**[NAMA DEVELOPER/PERUSAHAAN]**
-Email: **[EMAIL_SUPPORT]**
-[ALAMAT BISNIS — opsional, beberapa yurisdiksi mewajibkan]
+**Virtus Artha Prosperitas**
+Email: **support@virtusarthaprosperitas.com**
+Citra Tegal Buah no 9, Denpasar
 
 ---
 
