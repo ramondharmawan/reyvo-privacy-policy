@@ -140,6 +140,3 @@ Citra Tegal Buah no 9, Denpasar
 
 ---
 
-> Catatan: Dokumen ini adalah templat dan **bukan nasihat hukum**. Tinjau dan
-> sesuaikan dengan kebutuhan bisnis serta hukum yang berlaku (mis. UU PDP Indonesia)
-> sebelum dipublikasikan.
