@@ -1,6 +1,6 @@
 # Syarat & Ketentuan Layanan Reyvo
 
-11 Juni 2026
+Last updated: 11 Juni 2026
 
 Syarat & Ketentuan ("Ketentuan") ini mengatur penggunaan Anda atas aplikasi
 **Reyvo** ("Aplikasi") yang disediakan oleh Virtus Artha Prosperitas ("kami").
